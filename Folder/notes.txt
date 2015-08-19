@@ -1,0 +1,38 @@
+Untuk buku pedoman gunakan (buka di laptopku sendiri):
+
+1) Linux_Newbie_01.pdf --> mulai halaman 12
+2) my_manual.odt
+
+
+
+ini request dari peserta? untuk cachti tidak perlu dibahas.
+
+ 
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Sesuai dengan lampiran "JADWAL KEGIATAN TRAINING dan silabus linux", kami menyarankan untuk hari pertama tgl 18 dengan materi instalasi debian linux dan single host administration dilakukan dengan teori dan tanya jawab. kemudian dilanjutkan dengan materi Security Networking (Firewall, network security, network configuration) dengan teori, praktek dan tanya jawab.
+
+ 
+
+hari kedua tgl 19 Internet Service (DNS, FTP, Proxy Squid, SMTP, SSH, cacti) dan Intranet Services (Samba, NFS)
+
+ 
+
+hari ketiga tgl 20 gitlab 
+
+
+ 
+
+ 
+
+Instalasi Teknologi Informasi dan Komunikasi
+
+Rumah Sakit Umum Daerah Saiful Anwar
+
+----------------------------------------------------------------------------------
+
+Jl. Jaksa Agung Suprapto 2 Malang
+
+0341 - 362101 ext. 1062, 1060, 1252
